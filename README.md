@@ -1,4 +1,6 @@
 # AttackOnGiantZombies
+![AttackOnGiantZombies](https://user-images.githubusercontent.com/103320037/210520981-ce4b06d9-7af1-45db-8243-1dc5b4537771.jpg)
+
 Unityの勉強を始めて約4ヶ月目で制作した virtual reality professional academy 主催の VR Festival vol.11(2022/8/27 ) 出展作品となります。<br />
 VRプロフェッショナルアカデミー11期で、同期のkazumingoさん(https://github.com/kazumingo) と二人での共同制作作品となります。
 
