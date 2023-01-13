@@ -7,12 +7,13 @@ VRプロフェッショナルアカデミー11期で、同期のkazumingoさん(
 企画、シナリオ、レベルデザイン(Terrain、建物の配置)、TimeLine作成 : kazumingoさん<br />
 Unityシーン設計・配置、ライティング設定、ポストプロセス設定、アニメーション設定、UI作成、プログラム作成 : b0bmat0ca
 
-このままビルドはできません。
+## Meta Quest向けAPKファイル
+https://drive.google.com/file/d/1GvvXAnM9YGrpaJIDp9WnjBZKGkNPPHZM/view?usp=sharing
 
 ## 利用アセット
 一部音声は、魔王魂(https://maou.audio/) 様のものを利用しております。<br /> 
 Oculus Integration V41のインポートが必要となります。<br />
-また、以下のAssetを個別に準備する必要があります。
+また、ビルドするには以下のAssetを個別に準備する必要があります。
 
 ### Unity Asset Store
 Assets/_ExternalAssetフォルダ
