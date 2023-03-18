@@ -16,11 +16,9 @@ https://drive.google.com/file/d/1sdgQWMGNwx_nEwfpJJJrqdg3Lm0v1kv9/view?usp=shari
 
 ## 利用アセット
 一部音声は、魔王魂(https://maou.audio/) 様のものを利用しております。<br /> 
-Oculus Integration V41のインポートが必要となります。<br />
-また、ビルドするには以下のAssetを個別に準備する必要があります。
+以下のアセットは含まれておりませんので、ビルドはできません。
 
 ### Unity Asset Store
-Assets/_ExternalAssetフォルダ
 * AllSky - 220+ Sky / Skybox Set(https://assetstore.unity.com/packages/2d/textures-materials/sky/allsky-220-sky-skybox-set-10109)
 * AutoLOD(https://assetstore.unity.com/packages/tools/utilities/autolod-185662)
 * Castlear builder(https://assetstore.unity.com/packages/3d/characters/castlear-builder-116056)
@@ -33,17 +31,15 @@ Assets/_ExternalAssetフォルダ
 * Low Poly Weapons VOL.1(https://assetstore.unity.com/packages/3d/props/guns/low-poly-weapons-vol-1-151980)
 * Mobile Tree Package(https://assetstore.unity.com/packages/3d/vegetation/trees/mobile-tree-package-18866)
 * os. Crosshairs | Crosshair Pack(https://assetstore.unity.com/packages/2d/gui/icons/os-crosshairs-crosshair-pack-216732)
+* Oculus Integration(https://assetstore.unity.com/packages/tools/integration/oculus-integration-82022)
 * Selected U3D Japanese Font(https://assetstore.unity.com/packages/2d/fonts/selected-u3d-japanese-font-337)
 * Terrain Sample Asset Pack(https://assetstore.unity.com/packages/3d/environments/landscapes/terrain-sample-asset-pack-145808)
 * Terrain To Mesh 2021(https://assetstore.unity.com/packages/tools/terrain/terrain-to-mesh-2021-195349)
 * Zombies Pack V1(https://assetstore.unity.com/packages/3d/characters/humanoids/zombies-pack-v1-56294)
-
-
 * BasAssetStore/LowPolyVillage (https://assetstore.unity.com/packages/3d/environments/historic/low-poly-game-ready-history-village-207553)
 * Polytope Studio/Lowpoly Medieval Characters(https://assetstore.unity.com/packages/3d/characters/humanoids/humans/lowpoly-medieval-peasants-free-pack-122225)
 * VertexColorFarmAnimals (https://assetstore.unity.com/packages/3d/farm-animals-set-97945)
 
 ### 3D Model
-Assets/_ExternalAsset/3DModelsフォルダ
 * Grappling Hook(https://sketchfab.com/3d-models/grappling-hook-86e25eac0bce48f8a03bacf48c4ec468)
 * 【VRchat】道路標識バッジ(https://booth.pm/ja/items/3912020)
