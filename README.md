@@ -4,6 +4,10 @@
 Unityの勉強を始めて約4ヶ月目で制作したVRプロフェッショナルアカデミー主催の VR Festival vol.11(https://vracademy.jp/blog/haclathon11th/) 出展作品となります。<br />
 VRプロフェッショナルアカデミー11期で、同期のkazumingoさん(https://github.com/kazumingo) と二人での共同制作作品となります。
 
+ゾンビに追われる恐怖感、進撃の巨人に登場する立体機動装置のように移動する爽快感が味わえます。<br />
+
+[プレイ動画](https://youtu.be/Jgk_a1Del4o)
+
 企画、シナリオ、レベルデザイン(Terrain、建物の配置)、TimeLine作成 : kazumingoさん<br />
 Unityシーン設計・配置、ライティング設定、ポストプロセス設定、アニメーション設定、UI作成、プログラム作成 : b0bmat0ca
 
