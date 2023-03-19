@@ -12,7 +12,7 @@ VRプロフェッショナルアカデミー11期で、同期のkazumingoさん(
 Unityシーン設計・配置、ライティング設定、ポストプロセス設定、アニメーション設定、UI作成、プログラム作成 : b0bmat0ca
 
 ## Meta Quest向けAPKファイル
-https://drive.google.com/file/d/1sdgQWMGNwx_nEwfpJJJrqdg3Lm0v1kv9/view?usp=sharing
+https://1drv.ms/u/s!AqoUPJMJxwJweO7WKIchxj-f-Ac
 
 ## 利用アセット
 一部音声は、魔王魂(https://maou.audio/) 様のものを利用しております。<br /> 
