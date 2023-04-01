@@ -152,7 +152,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1684115092482181234, guid: 8c1e8c0ba23e4b247a92c91901205bbb, type: 3}
       propertyPath: _trackingOriginType
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 1684115092492926360, guid: 8c1e8c0ba23e4b247a92c91901205bbb, type: 3}
       propertyPath: m_Name
